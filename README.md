@@ -1,6 +1,6 @@
 <h1 align="center">
   <img
-      alt="RetroLab"
+      alt="test"
       src="./logo.png"
       width="256"
     />
